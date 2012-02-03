@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="play" module="sbt-plugin" revision="2.0-RC1-SNAPSHOT" status="release" publication="20120202150116" e:scalaVersion="2.9.1" e:sbtVersion="0.11.2">
+	<info organisation="play" module="sbt-plugin" revision="2.0-RC1-SNAPSHOT" status="release" publication="20120202184800" e:scalaVersion="2.9.1" e:sbtVersion="0.11.2">
 		<description>
 		SBT-Plugin
 		</description>

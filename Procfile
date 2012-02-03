@@ -1,1 +1,1 @@
-web: target/start -Dhttp.port=${PORT} -Dconfig.resource=prod.conf
+web: target/start -Dconfig.file=conf/prod.conf
